@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_credit_card/flutter_credit_card.dart';
 import 'package:credit_card_scanner/credit_card_scanner.dart';
 import 'package:fluttertoast/fluttertoast.dart';
-import 'package:imtihonvisa/pages/home_page.dart';
-import 'package:imtihonvisa/pages/models/credit_card_model.dart';
+import 'package:imtihonvisa/models/credit_card_model.dart';
+
 
 class MyAppState extends StatefulWidget {
   const MyAppState({super.key});

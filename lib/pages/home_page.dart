@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:imtihonvisa/models/credit_card_model.dart';
 import 'package:imtihonvisa/pages/cridit_card_page.dart';
 import 'package:imtihonvisa/pages/details_page.dart';
-import 'package:imtihonvisa/pages/models/credit_card_model.dart';
+
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -122,6 +123,7 @@ class _HomePageState extends State<HomePage> {
                 style: const TextStyle(
                   fontSize: 16,
                   fontWeight: FontWeight.w500,
+
                 ),
               ),
 
@@ -146,5 +148,6 @@ class _HomePageState extends State<HomePage> {
       return 'Noma\'lum';
     }
   }
+
 
 }

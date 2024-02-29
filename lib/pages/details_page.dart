@@ -2,7 +2,7 @@
 import 'package:credit_card_scanner/credit_card_scanner.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
-import 'package:imtihonvisa/pages/models/credit_card_model.dart';
+import 'package:imtihonvisa/models/credit_card_model.dart';
 import 'package:mask_text_input_formatter/mask_text_input_formatter.dart';
 
 
